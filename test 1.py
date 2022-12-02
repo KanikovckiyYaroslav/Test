@@ -1,3 +1,3 @@
 print("Hello Python")
 print("Hello Ukraine")
-print("Hello world")
+print("Hello world and peoples!")
